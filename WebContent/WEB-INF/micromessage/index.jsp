@@ -7,6 +7,9 @@
 <title>测试页面</title>
 </head>
 <body>
-
+<h1>标题一</h1>
+<h2>标题二</h2>
+<h3>标题三</h3>
+<h4>标题四</h4>
 </body>
 </html>
